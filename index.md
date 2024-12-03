@@ -11,3 +11,7 @@
 var_string = "Hello, world!"
 print(var_string)
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
