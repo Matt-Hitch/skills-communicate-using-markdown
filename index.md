@@ -5,3 +5,9 @@
 ###### This is an `<h6>` header, which is the smallest
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+**Example code block:**
+``` python
+var_string = "Hello, world!"
+print(var_string)
+```
